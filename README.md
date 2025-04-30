@@ -76,4 +76,4 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por Ivanelson Nunes
